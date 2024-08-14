@@ -13,7 +13,7 @@ def generate_html(json_file_path, output_file_path):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prettified AI Risk Repository</title>
+    <title>AI Risk Repository Prettified</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -168,7 +168,7 @@ def generate_html(json_file_path, output_file_path):
 </head>
 <body>
     <div id="page-container">
-        <h1>Prettified AI Risk Repository</h1>
+        <h1>AI Risk Repository Prettified</h1>
         <div class="intro">
             <p><strong>What is the AI Risk Repository?</strong><br>
             The AI Risk Repository has three parts:</p>
