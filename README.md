@@ -1,4 +1,5 @@
 # AI Risk Database Prettified
+## [https://privacy-engineering-cmu.github.io/ai-risk-prettified/](https://privacy-engineering-cmu.github.io/ai-risk-prettified/)
 
 ## What is the AI Risk Database?
 The AI Risk Database captures 700+ risks extracted from 43 existing frameworks, with quotes and page numbers.
